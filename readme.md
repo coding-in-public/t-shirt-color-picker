@@ -2,6 +2,8 @@
 
 In this fun little project, we’re going to build out a t-shirt color picker. While simple, a little project like this is a great way to explore several important concepts in CSS, including CSS variables, inline SVGs, currentColor, data attributes, and more!
 
+[YouTube Video](https://youtu.be/WVJLrbiMKhM)
+
 🔗  Key Links 🔗
 - T-shirt design: https://pixabay.com/vectors/t-shirt-clothing-yellow-shirt-294078/
 - SVG backgrounds: https://heropatterns.com/
